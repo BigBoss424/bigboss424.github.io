@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
+title: A Learning Experience
+description: Learning Never Stops
 keywords: Modern, Blogging, Fun
-author: Wferr
+author: Aaron Jones
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
